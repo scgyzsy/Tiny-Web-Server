@@ -1,6 +1,4 @@
 # Tiny-Web-Server
----
-
 A very simple, fast, multiprocessing Web Server write in C.<br/> 
 I met a very nice book last year —— [Computer Systems: A Programmer's Perspective(深入理解操作系统)](http://csapp.cs.cmu.edu/). It taught me how 
 to write a tiny in ASCII C.  Now I'm reading another nice book —— [Advanced Programming in the UNIX® Environment(Unix环境高级编程)](http://www.apuebook.com/apue3e.html)
